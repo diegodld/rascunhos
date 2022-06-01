@@ -1,0 +1,3 @@
+# rascunhos
+
+Fragmentos de códigos
